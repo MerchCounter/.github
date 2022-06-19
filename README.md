@@ -1,1 +1,1 @@
-# .github
+# Merch Counter
